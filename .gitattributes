@@ -1,0 +1,11 @@
+# Generated on 2026-11-20
+# Language detection rules   
+package-lock.json linguist-generated
+
+src/**/*.ts linguist-detectable
+* text=auto eol=lf
+src/** linguist-detectable
+
+*.min.js linguist-generated
+docs/** linguist-vendored
+docs/**/*.html linguist-vendored
